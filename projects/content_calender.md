@@ -4,7 +4,7 @@ description: "I designed REST APIs for my content calendar application, enabling
 date: "2023-08-10"
 technology: ["Spring Boot", "Java", "MySQL", "H2"]
 liveLink: "https://clbydanish.netlify.app/"
-sourceCode: "https://github.com/danishzahid"
+sourceCode: "https://github.com/danishzahid/content-calender"
 ---
 
 # Content Calendar APIs
