@@ -3,8 +3,8 @@ title: "Live Weather App"
 description: "Developed a live weather application during a hackathon using a specified API that relies on browser geolocation. The app provides real-time weather updates and adjusts its user interface based on weather conditions. This was implemented using React.js."
 date: "2023-08-01"
 technology: ["React", "RestAPI", "Context API"]
-liveLink: "https://clbydanish.netlify.app/"
-sourceCode: "https://github.com/danishzahid"
+liveLink: "https://live-weather-app-rho.vercel.app/"
+sourceCode: "https://github.com/danishzahid/live-weather-app"
 ---
 
 # Live Weather App
