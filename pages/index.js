@@ -449,7 +449,7 @@ const IndexPage = ({ projects, blogs }) => {
           <ListItem>CSS</ListItem>
           <ListItem>Java 8</ListItem>
           <ListItem>MySQL</ListItem>
-          <ListItem>Sprinng Boot</ListItem>
+          <ListItem>Spring Boot</ListItem>
         </UnorderedListForProjects>
         <SectionDivider />
       </SectionContainer>
