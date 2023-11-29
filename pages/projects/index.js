@@ -113,9 +113,11 @@ export default function Projects({ allPostsData }) {
               <Date dateString={date} />
             </small>
             <LinksContainer>
-              <ViewProjectButton href={liveLink} target="_blank">
-                Live Link <BiLinkExternal />
-              </ViewProjectButton>
+              {liveLink && (
+                <ViewProjectButton href={liveLink} target="_blank">
+                  Live Link <BiLinkExternal />
+                </ViewProjectButton>
+              )}
               <ViewProjectButton href={sourceCode} target="_blank">
                 Source Code <BiLinkExternal />
               </ViewProjectButton>
