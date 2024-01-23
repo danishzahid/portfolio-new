@@ -2,10 +2,10 @@ import * as React from "react";
 import { Helmet } from "react-helmet";
 
 export function Seo({
-  title = "Mobashir Farhan",
-  description = "Mobashir Farhan's personal website",
+  title = "Danish Zahid",
+  description = "Danish Zahid's personal website",
   image = "https://i.ibb.co/WfTLdny/pro-c.jpg",
-  url = "https://www.mobashirfarhan.vercel.app",
+  url = "https://www.danishzahid.vercel.app",
 }) {
   return (
     <Helmet>

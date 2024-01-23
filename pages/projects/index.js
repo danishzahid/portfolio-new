@@ -92,8 +92,8 @@ export default function Projects({ allPostsData }) {
       </Head>
       <Heading>Projects</Heading>
       <Desciption>
-        I have worked on a few projects. I have also contributed to open source
-        projects.
+        I have worked on a few projects. Checkout them and please provide
+        feedback.
       </Desciption>
       {allPostsData.map(
         ({ id, date, title, technology, liveLink, sourceCode }) => (

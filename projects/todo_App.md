@@ -9,7 +9,9 @@ sourceCode: "https://github.com/danishzahid/todo-backend"
 
 # Full-stack To-do App
 
-Created a to-do app using React-Redux for the frontend and Express, MongoDB for the backend. I also added testing framework ‘Jest’ in React and used TypeScript for better functionality. This project highlights my skills in full-stack development and modern technology usage.
+The application showcases my proficiency in full-stack development and utilization of contemporary technologies.
+The frontend is built with ReactJS, while the backend leverages Express and MongoDB Cloud for database storage.
+The deployment involves using Vercel for the frontend and Render for the backend.
 
 ## Features
 
