@@ -308,7 +308,7 @@ const HeroData = {
   },
   professional: {
     name: "Danish Zahid",
-    profession: "FrontEnd 🧑‍💻 | ReactJs ⚛️ | Java 🍵",
+    profession: "Springboot 🧑‍💻 | ReactJs ⚛️ | Java 🍵",
     intro:
       "I'm a software engineer deeply enthusiastic about coding and building modern web apps. I thrive on exploring emerging technologies and solving problems. Eager to be a valuable asset to a forward-thinking team, I am on the lookout for an environment where I can continuously learn, grow, and contribute meaningfully. Let's connect and explore how I can bring my expertise to your projects!",
     avatar: "https://i.ibb.co/56K1VS9/linkedin-img.jpg",
@@ -438,6 +438,9 @@ const IndexPage = ({ projects, blogs }) => {
           These are the technologies I have worked with in the past
         </SectionSubtitle>
         <UnorderedListForProjects>
+          <ListItem>Java 8</ListItem>
+          <ListItem>MySQL</ListItem>
+          <ListItem>Spring Boot</ListItem>
           <ListItem>JavaScript</ListItem>
           <ListItem>ReactJs</ListItem>
           <ListItem>NodeJs</ListItem>
@@ -447,9 +450,6 @@ const IndexPage = ({ projects, blogs }) => {
           <ListItem>Git</ListItem>
           <ListItem>HTML</ListItem>
           <ListItem>CSS</ListItem>
-          <ListItem>Java 8</ListItem>
-          <ListItem>MySQL</ListItem>
-          <ListItem>Spring Boot</ListItem>
         </UnorderedListForProjects>
         <SectionDivider />
       </SectionContainer>
